@@ -12,8 +12,6 @@ class Tweet
     puts "do same thing 3 after"
     puts "do same thing 4 after"
 
-
-
   end
 
   def print1(name)
