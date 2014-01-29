@@ -71,7 +71,7 @@
       <file leaf-file-name="sample4.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/block/sample4.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.7817048" vertical-offset="149" max-vertical-offset="690">
+            <state line="26" column="5" selection-start="438" selection-end="438" vertical-scroll-proportion="0.56340957" vertical-offset="119" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -542,7 +542,11 @@
       <created>1390979068774</created>
       <updated>1390979068774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixes #1&#10;just a test too....&#10;">
+      <created>1390979779829</created>
+      <updated>1390979779829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -583,7 +587,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="fixes #1&#10;just a test too....&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes #1&#10;just a test too....&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -619,7 +624,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/block/sample4.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.7817048" vertical-offset="149" max-vertical-offset="690">
+        <state line="26" column="5" selection-start="438" selection-end="438" vertical-scroll-proportion="0.56340957" vertical-offset="119" max-vertical-offset="660">
           <folding />
         </state>
       </provider>

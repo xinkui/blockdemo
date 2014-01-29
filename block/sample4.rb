@@ -32,8 +32,6 @@ class Tweet
 
 end
 
-
-
 tweet = Tweet.new
 tweet.print1('getdown')
 tweet.print2('milan')
